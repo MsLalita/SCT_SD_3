@@ -1,1 +1,2 @@
-# SCT_SD_3
+# Sudoku Solver
+The Sudoku Solver is a web application or program designed to solve Sudoku puzzles automatically. Given a partially filled 9x9 Sudoku grid, the solver applies algorithms (such as backtracking or constraint propagation) to find the solution, ensuring that the puzzle adheres to the rules of Sudoku. The application provides both the ability to solve a puzzle and visualize the solution step-by-step.
